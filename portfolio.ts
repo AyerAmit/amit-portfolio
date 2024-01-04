@@ -12,24 +12,24 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Anupam Gautam",
-  title: "Hi all, I'm Anupam",
+  name: "Amit Ayer",
+  title: "Hi all, I'm Amit",
   description:
-    "In the digital world of endless connections, I build bridges that span the gap between sleek user interfaces and treasure troves of data, using tools like restful APIs, graphQL, and websockets. As aerverless computing rises to the forefront, I’m eagerly exploring this dynamic and cutting-edge domain.",
+    "In the digital world of endless connections, I build bridges that span the gap between sleek user interfaces and treasure troves of data, using tools like restful APIs, graphQL, and websockets. As serverless computing rises to the forefront, I’m eagerly exploring this dynamic and cutting-edge domain.",
   // resumeLink: "#",
 };
 
 export const openSource = {
-  githubUserName: "anupam-gautam",
+  githubUserName: "AyerAmit",
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:anupam.gautam46@gmail.com",
-  linkedin: "https://www.linkedin.com/in/anupamgautam46/",
-  github: "https://github.com/anupam-gautam/",
-  twitter: "https://twitter.com/AnupamGautam46",
+  email: "mailto:ayeramit@gmail.com",
+  linkedin: "https://www.linkedin.com/in/amit-ayer-683575122/",
+  github: "https://github.com/AyerAmit/",
+  // twitter: "https://twitter.com/AnupamGautam46",
   // instagram: "https://www.instagram.com/anupam",
   // facebook: 'https://www.facebook.com/anupam',
 };
@@ -99,7 +99,7 @@ export const SkillBars: SkillBarsType[] = [
   },
   {
     Stack: "Cloud",
-    progressPercentage: "95",
+    progressPercentage: "50",
   },
   {
     Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -109,19 +109,19 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: "Tribhuvan University",
-    subHeader: "Bachelor of Science in Computer Science and Information Technology",
-    duration: "2018 - 2023",
+    schoolName: "Pokhara University",
+    subHeader: "Bachelor of Computer Engineering",
+    duration: "",
     desc: "",
-    grade: "Distinction (80.8%)",
+    grade: "2.98",
     descBullets: [], // Array of Strings
   },
   {
-    schoolName: "Kathmandu Model College",
+    schoolName: "Radiant Higher Secondary School",
     subHeader: "Higher National Diploma (+2) in Science (Major: Computer Science)",
-    duration: "2016 - 2018",
+    duration: "2009 - 2011",
     desc: "",
-    grade: "Grade B+",
+    grade: "Second Divsion",
     descBullets: [], // Array of Strings
   },
 ];
@@ -131,44 +131,55 @@ export const experience: ExperienceType[] = [
     role: "Software Developer",
     company: " Fintech Solutions",
     companyLogo: "/img/icons/common/FintechLogo.png",
-    date: "Sept 2023 - Present",
-    desc: "I crafted backends for diverse web apps, APIs, and WebSockets in e-commerce, podcasts, and property management. Managed server upkeep, deployments on Linux, Heroku, and AWS S3. Implemented PyTest for automated unit and integration testing, slashing 4 hours of manual testing each sprint, fortifying a dependable and flawless code foundation.",
+    date: "July 2022 - Present",
+    desc: "Working as a backend developer for different web and app based api development as well as implementing third party api integration for payment process of different countries. Besides this I am currently working in a system architecture team where my responsibility is to write System Arch Document which is a bridge between Product and Development team.",
   },
   {
     role: "Software Developer",
-    company: "EDA Nepal",
-    companyLogo: "/img/icons/common/edaNepal.PNG",
-    date: "Jan 2023 - Sept 2023",
-    desc: "Crafted robust mobile application backends employing Django, Python, and REST APIs. Leveraged Django REST Framework, PostgreSQL, AWS, Firebase, Stripe, and WebSocket for efficient development. Collaborated across teams to surpass client expectations. Designed intuitive UIs, empowering clients to effortlessly manage their applications with a visually captivating interface.",
+    company: "Omnicom Media Group",
+    companyLogo: "/img/icons/common/omnicom-logo.webp",
+    date: "Feb 2021 - Apr 2022",
+    desc: "Worked on different Australian based projects..",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     // ],
   },
   {
-    role: "Dotnet Developer Intern",
-    company: "EDA Nepal",
-    companyLogo: "/img/icons/common/edaNepal.PNG",
-    date: "Sept 2022 - Dec 2022",
-    desc: "Crafted robust mobile application backends employing Django, Python, and REST APIs. Leveraged Django REST Framework, PostgreSQL, AWS, Firebase, Stripe, and WebSocket for efficient development. Collaborated across teams to surpass client expectations. Designed intuitive UIs, empowering clients to effortlessly manage their applications with a visually captivating interface.",
+    role: "Software Developer",
+    company: "Proshore Nepal",
+    companyLogo: "/img/icons/common/logo-badge-20s.svg",
+    date: "Dec 2019 - Feb 2021",
+    desc: "Work on different projects of Netherland.",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     // ],
   },
   {
-    role: "Student Partnership Coordinator and Graphic Designer",
-    company: "Hamrobazar",
-    companyLogo: "/img/icons/common/hamrobazar.jpg",
-    date: "Oct 2021 - Sep 2022",
-    desc: "Crafting diverse web applications, I've elevated functionality and user engagement. Spearheaded Visual Portfolio, leveraging AI for captivating presentations from parsed text. Proficiently set up and optimized applications on Linux servers, guaranteeing smooth scalability and top-notch performance for seamless user experiences.",
+    role: "Dotnet Developer",
+    company: "Percoid IT Solutions",
+    companyLogo: "/img/icons/common/percoid.png",
+    date: "May 2018 - Nov 2019",
+    desc: "Software Developer, Worked for US based company as a .Net developer.",
+    // descBullets: [
+    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    // ],
+  },
+  {
+    role: "Software Developer",
+    company: "Channakya Software",
+    companyLogo: "/img/icons/common/Channakya-logo.png",
+    date: "Mar 2016 - Apr 2018",
+    desc: "Primarily focused on projects of different Government and private Office in Nepal i worked as C#/ASP.NET developer and responsible for full phase of software development including both front end and back end coding and testing.    ",
   },
 ];
 
 export const projects: ProjectType[] = [
   {
     name: "developer-portfolio",
-    desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
+    desc: "Versatile developer with nearly 7+ years of experience in both frontend and backend development for web and desktop systems. Adapt at working with team members to drive achievement of project deliverables and goals throughout the software development lifecycle, with a proven history of multiple successfully completed client projects. Adaptable, fast-learner problem solver able to quickly devise innovative solutions to technology problems. Possess both backend and frontend development expertise across multiple application layers. Have adequate knowledge on current methods and practices for good design of software systems, including software design patterns, frameworks, architectures, and designing systems. Always eager to learn new Technology.",
     github: "https://github.com/anupam/developer-portfolio",
     link: "https://developer-portfolio-anupam.vercel.app/",
   },
@@ -213,18 +224,18 @@ export const feedbacks: FeedbackType[] = [
 // See object prototype on /types/section.ts page
 
 export const seoData: SEODataType = {
-  title: "Anupam Gautam",
+  title: "Amit Ayer",
   description: greetings.description,
-  author: "Anupam Gautam",
+  author: "Amit Ayer",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
   url: "https://anupamgautam.com.np",
   keywords: [
-    "Anupam",
-    "Anupam Gautam",
-    "@anupam-gautam",
-    "anupamgautam",
+    "Amit",
+    "Amit Ayer",
+    "@AyerAmit",
+    "ayeramit",
     "software engineeer",
-    "Anupam Portfolio ",
-    "Anupam Gautam Portfolio",
+    "Amit Portfolio ",
+    "Amit Ayer Portfolio",
   ],
 };

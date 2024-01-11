@@ -227,8 +227,8 @@ export const seoData: SEODataType = {
   title: "Amit Ayer",
   description: greetings.description,
   author: "Amit Ayer",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://anupamgautam.com.np",
+  image: "https://avatars.githubusercontent.com/u/58423038?v=4",
+  url: "https://amitayer.com.np",
   keywords: [
     "Amit",
     "Amit Ayer",

@@ -29,9 +29,9 @@ export const socialLinks: SocialLinksType = {
   email: "mailto:ayeramit@gmail.com",
   linkedin: "https://www.linkedin.com/in/amit-ayer-683575122/",
   github: "https://github.com/AyerAmit/",
-  // twitter: "https://twitter.com/AnupamGautam46",
-  // instagram: "https://www.instagram.com/anupam",
-  // facebook: 'https://www.facebook.com/anupam',
+  // twitter: "https://twitter.com/ayeramit",
+  // instagram: "https://www.instagram.com/amit",
+  // facebook: 'https://www.facebook.com/amit',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -180,8 +180,8 @@ export const projects: ProjectType[] = [
   {
     name: "developer-portfolio",
     desc: "Versatile developer with nearly 7+ years of experience in both frontend and backend development for web and desktop systems. Adapt at working with team members to drive achievement of project deliverables and goals throughout the software development lifecycle, with a proven history of multiple successfully completed client projects. Adaptable, fast-learner problem solver able to quickly devise innovative solutions to technology problems. Possess both backend and frontend development expertise across multiple application layers. Have adequate knowledge on current methods and practices for good design of software systems, including software design patterns, frameworks, architectures, and designing systems. Always eager to learn new Technology.",
-    github: "https://github.com/anupam/developer-portfolio",
-    link: "https://developer-portfolio-anupam.vercel.app/",
+    github: "https://github.com/amit/developer-portfolio",
+    link: "https://developer-portfolio-amit.vercel.app/",
   },
   {
     name: "Giebo",
@@ -205,13 +205,13 @@ export const feedbacks: FeedbackType[] = [
     name: "Syed Jamal",
     role: "Frontend Developer at Meganos Software",
     feedback:
-      "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Anupam is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
+      "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like amit is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
   },
   {
     name: "Wajahat Malek",
     role: "CEO at Duseca Software",
     feedback:
-      "Anupam has a deep understanding of web development technologies and is adept at using them to build scalable, robust, and secure web applications. He has worked on various projects, ranging from small-scale to large-scale, and has shown his ability to work collaboratively with others while maintaining a high level of productivity and quality. Anupam is a pleasure to work with, and I have no doubt that he will be an asset to any team or organization. I highly recommend Anupam for any Full Stack Django, React.js, or Blockchain development projects, and I wish him all the best in his future endeavors.",
+      "amit has a deep understanding of web development technologies and is adept at using them to build scalable, robust, and secure web applications. He has worked on various projects, ranging from small-scale to large-scale, and has shown his ability to work collaboratively with others while maintaining a high level of productivity and quality. amit is a pleasure to work with, and I have no doubt that he will be an asset to any team or organization. I highly recommend amit for any Full Stack Django, React.js, or Blockchain development projects, and I wish him all the best in his future endeavors.",
   },
   {
     name: "Zaid Zaffar",

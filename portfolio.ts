@@ -111,15 +111,15 @@ export const educationInfo: EducationType[] = [
   {
     schoolName: "Pokhara University",
     subHeader: "Bachelor of Computer Engineering",
-    duration: "",
+    duration: "2019",
     desc: "",
-    grade: "2.98",
+    grade: "CGPA: 2.95",
     descBullets: [], // Array of Strings
   },
   {
     schoolName: "Radiant Higher Secondary School",
     subHeader: "Higher National Diploma (+2) in Science (Major: Computer Science)",
-    duration: "2009 - 2011",
+    duration: "2011",
     desc: "",
     grade: "Second Divsion",
     descBullets: [], // Array of Strings
@@ -139,7 +139,7 @@ export const experience: ExperienceType[] = [
     company: "Omnicom Media Group",
     companyLogo: "/img/icons/common/omnicom-logo.webp",
     date: "Feb 2021 - Apr 2022",
-    desc: "Worked on different Australian based projects..",
+    desc: "Software Develope, Worked on different Australian based projects..",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -150,7 +150,7 @@ export const experience: ExperienceType[] = [
     company: "Proshore Nepal",
     companyLogo: "/img/icons/common/logo-badge-20s.svg",
     date: "Dec 2019 - Feb 2021",
-    desc: "Work on different projects of Netherland.",
+    desc: "Software Develope, Work on different projects of Netherland.",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",

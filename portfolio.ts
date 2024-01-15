@@ -139,7 +139,7 @@ export const experience: ExperienceType[] = [
     company: "Omnicom Media Group",
     companyLogo: "/img/icons/common/omnicom-logo.webp",
     date: "Feb 2021 - Apr 2022",
-    desc: "Software Develope, Worked on different Australian based projects..",
+    desc: "Software Developer, Worked on different Australian based projects..",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -150,7 +150,7 @@ export const experience: ExperienceType[] = [
     company: "Proshore Nepal",
     companyLogo: "/img/icons/common/logo-badge-20s.svg",
     date: "Dec 2019 - Feb 2021",
-    desc: "Software Develope, Work on different projects of Netherland.",
+    desc: "Software Developer, Work on different projects of Netherland.",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",

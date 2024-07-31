@@ -131,7 +131,7 @@ export const experience: ExperienceType[] = [
     role: "Software Developer",
     company: " Fintech Solutions",
     companyLogo: "/img/icons/common/FintechLogo.png",
-    date: "July 2022 - Present",
+    date: "July 2022 - August 2024",
     desc: "Working as a backend developer for different web and app based api development as well as implementing third party api integration for payment process of different countries. Besides this I am currently working in a system architecture team where my responsibility is to write System Arch Document which is a bridge between Product and Development team.",
   },
   {
